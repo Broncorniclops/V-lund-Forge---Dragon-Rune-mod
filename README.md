@@ -1,7 +1,7 @@
 # Volund-Forge presents: The Dragon Rune mod
 Updated Creality K1 unicorn hotend with minimal modification to accept a Dragon style hotend. 
 
-This is a wok in orofress, WiP, and as such I cannot guarantee this will work for you. This is what I dod and thse are MY results nothing more. Porential issues listed in issues. 
+This is a wok in progress, WiP, and as such I cannot guarantee this will work for you. This is what I dod and thse are MY results nothing more. Porential issues listed in issues. 
 BOM - No affiliation
 Updated Creality Unicorn hotend - https://a.co/d/e6rh1FP
 Phaetus NextG Fibre hotend (others unconfirmed) - https://peedee3d.com/products/phaetus-next-g-fiber-extreme-gradient-drop-effect-hotend-nextg
